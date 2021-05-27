@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Ding Final1.1
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 63224d4b7c5cda64ea549fad065c16ff, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: d7a0e522eff9e6f43bf991e10ffee3d5, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: dd03d637453a31b4c9b10bb83a3c3b76, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 32900000, guid: d880fda4525a9cc4191e0fea4b6ec6a5, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 32900000, guid: 9b5dfd322a8b71945b0274202ef4dd56, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 33458fc230d951a4985390a67be7804e, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 824859a01fad442448bcc3537a6bde93, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 32900000, guid: 4d8cdfd0e98d1db458d0584eb7fb57f6, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2100000, guid: 8d36104ffc6fc0f4d82327eebb8fec5c, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 124df7687979e394b938a468ded2aecc, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 45b9717cb462dd943b043187a90d19e2, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 919132149155446097, guid: 248514a3bb4bfec42bdd57b3e8022582, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: dd00df7eb713a8946b80c8a0a0a3c13d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 0d4c7bdba3597624da9e21d53701de4f, type: 2}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0
